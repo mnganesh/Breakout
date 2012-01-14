@@ -1,9 +1,7 @@
 /*
  * File: Breakout.java
  * -------------------
- * Name:
- * Section Leader:
- * 
+ * https://github.com/mnganesh/Breakout
  * This file will eventually implement the game of Breakout.
  */
 
